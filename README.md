@@ -83,7 +83,7 @@ El dashboard interactivo incluye:
   
 🔗 [Ver el dashboard completo en GitHub](https://github.com/tu_usuario/Accenture_Stock_Analysis)  
 
-![Dashboard Preview](ruta_al_dashboard_preview.png)
+![Dashboard Preview](https://1drv.ms/u/c/aec9adf1cf0371ee/EcUz8PZgzbJCly7rzEUYS1oBPvADV6Y7qdjXb-EZXVKrpA?e=rsfzvH)
 
 ---
 
