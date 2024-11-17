@@ -118,7 +118,7 @@ Este proyecto muestra cómo las herramientas de análisis y visualización puede
 Este proyecto está disponible en mi perfil de GitHub. ¡No dudes en revisarlo, aportar ideas o dar feedback!
 
 📩 **Contacto:** marcelofabianlopezcastro@gmail.com 
-🔗 **GitHub:** [Tu perfil aquí]  
+🔗 **GitHub:** https://github.com/MLopezCastro  
 🌐 **LinkedIn:** [Tu perfil aquí]  
 
 ---
