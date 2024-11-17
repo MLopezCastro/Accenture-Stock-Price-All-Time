@@ -81,9 +81,7 @@ El dashboard interactivo incluye:
 - **KPI Cards:** Precio de Cierre Actual, Promedio de Cierre Mensual, Volumen Anual, Máximos y Mínimos Históricos.
 - **Visualizaciones:** Gráficos de línea y barra para analizar tendencias y rendimientos.
   
-🔗 [Ver el dashboard completo en GitHub](https://github.com/tu_usuario/Accenture_Stock_Analysis)  
-
-![Dashboard Preview](https://1drv.ms/u/c/aec9adf1cf0371ee/EcUz8PZgzbJCly7rzEUYS1oBPvADV6Y7qdjXb-EZXVKrpA?e=rsfzvH)
+🔗 Link al Dashboard:
 
 https://1drv.ms/u/c/aec9adf1cf0371ee/EcUz8PZgzbJCly7rzEUYS1oBPvADV6Y7qdjXb-EZXVKrpA?e=Xxag6g
 
