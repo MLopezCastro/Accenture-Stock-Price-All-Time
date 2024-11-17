@@ -119,7 +119,7 @@ Este proyecto está disponible en mi perfil de GitHub. ¡No dudes en revisarlo, 
 
 📩 **Contacto:** marcelofabianlopezcastro@gmail.com 
 🔗 **GitHub:** https://github.com/MLopezCastro  
-🌐 **LinkedIn:** [Tu perfil aquí]  
+🌐 **LinkedIn:** https://www.linkedin.com/in/marceloflopez/
 
 ---
 
