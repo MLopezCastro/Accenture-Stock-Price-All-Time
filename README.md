@@ -85,6 +85,8 @@ El dashboard interactivo incluye:
 
 ![Dashboard Preview](https://1drv.ms/u/c/aec9adf1cf0371ee/EcUz8PZgzbJCly7rzEUYS1oBPvADV6Y7qdjXb-EZXVKrpA?e=rsfzvH)
 
+https://1drv.ms/u/c/aec9adf1cf0371ee/EcUz8PZgzbJCly7rzEUYS1oBPvADV6Y7qdjXb-EZXVKrpA?e=Xxag6g
+
 ---
 
 ## 📂 **Cómo Usar Este Proyecto**
