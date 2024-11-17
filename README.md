@@ -1,7 +1,5 @@
 # Accenture-Stock-Price-All-Time
 
-¡Claro! Aquí tienes un texto estructurado para el archivo `README.md` de tu proyecto. Este README está diseñado para ser claro, profesional y destacar tus habilidades y herramientas utilizadas.
-
 ---
 
 # 📊 **Análisis Histórico de las Acciones de Accenture**
